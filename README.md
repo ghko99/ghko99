@@ -1,9 +1,3 @@
-<!-- 타이틀 부분 -->
-<div align="center">
-  <!-- 필요하신 이미지를 원하시면 아래 src에 수정해서 넣으세요 -->
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <!-- Python -->
