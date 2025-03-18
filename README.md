@@ -4,17 +4,6 @@
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 
-<br />
-
-<h2 align="center">Hello, I'm <strong>khko99</strong> 👋</h2>
-<p align="center">
-안녕하세요! <br />
-딥러닝과 AI 분야에 관심이 많고, <br />
-데이터와 기술을 활용하여 문제를 해결하는 과정을 즐깁니다.
-</p>
-
-<br />
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <!-- Python -->
