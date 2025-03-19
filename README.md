@@ -34,4 +34,4 @@ Hello! I'm a passionate AI developer with deep interests in deep learning, Natur
 **Thank you for visiting! 😄**  
 *Feel free to explore my repositories and leave feedback.*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghko99&layout=compact)
+
