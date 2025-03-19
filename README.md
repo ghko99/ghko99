@@ -1,71 +1,48 @@
-<h1 align="center">Go Ganghee</h1>
+<h1>Go Ganghee</h1>
 
-<h3 align="center">🙋‍♂️ About Me</h3>
-<p align="center">Hello! I'm a passionate AI developer with deep interests in deep learning, Natural Language Processing (NLP), and Large Language Models (LLMs). I enjoy solving complex problems using data-driven approaches and continuously strive to enhance my skills and knowledge in these areas.</p>
+## 🙋‍♂️ About Me
+Hello! I'm a passionate AI developer with deep interests in deep learning, Natural Language Processing (NLP), and Large Language Models (LLMs). I enjoy solving complex problems using data-driven approaches and continuously strive to enhance my skills and knowledge in these areas.
 
 ---
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+### ✨ Tech Stack ✨
 
-<p align="center">
-<strong>Languages:</strong><br>
+**Languages:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
 
-<p align="center">
-<strong>ML Frameworks:</strong><br>
+**ML Frameworks:**  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
 
-<p align="center">
-<strong>Data Science:</strong><br>
+**Data Science:**  
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white" />
-</p>
 
-<p align="center">
-<strong>NLP & LLM:</strong><br>
+**NLP & LLM:**  
 <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-0F1011?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/FAISS-FFD43B?style=for-the-badge&logoColor=black" />
-</p>
 
 ---
 
-<h3 align="center">🛠 Tools & Environment 🛠</h3>
+### 🛠 Tools & Environment 🛠
 
-<p align="center">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
 
 ---
 
-<h3 align="center">📫 Contact 📫</h3>
+### 📫 Contact 📫
 
-<p align="center">
 <a href="https://velog.io/@khko99/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
 <a href="https://huggingface.co/khko99"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
 <a href="mailto:khko99@inha.edu"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
-<p align="center">
-<strong>Thank you for visiting! 😄</strong><br>
-<sub>Feel free to explore my repositories and leave feedback.</sub>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghko99&layout=compact" />
-</p>
-
+**Thank you for visiting! 😄**  
+*Feel free to explore my repositories and leave feedback.*
