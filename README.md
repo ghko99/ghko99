@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghko99&layout=compact)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
