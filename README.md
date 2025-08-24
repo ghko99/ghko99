@@ -1,10 +1,5 @@
 <h1>Go Ganghee</h1>
 
-## 🙋‍♂️ About Me
-Hello! I'm a passionate AI developer with deep interests in deep learning, Natural Language Processing (NLP), and Large Language Models (LLMs). I enjoy solving complex problems using data-driven approaches and continuously strive to enhance my skills and knowledge in these areas.
-
----
-
 ### ✨ Tech Stack ✨
 
 **Languages:**  
