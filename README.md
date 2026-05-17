@@ -23,6 +23,15 @@
 
 ---
 
+### Selected Work
+
+- [Korean Essay Rater](https://github.com/ghko99/korean-essay-rater): Korean essay scoring and feedback generation service.
+- [AES LLM Training](https://github.com/ghko99/aes-llm-training): LoRA fine-tuning experiments for automated essay scoring.
+- [Lora Self Consistency AES](https://github.com/ghko99/lora-self-consistency-aes): self-consistency and dynamic loss experiments for AES.
+- [AIHub AES v2](https://github.com/ghko99/aihub-aes-v2): KoBERT-GRU experiments for AIHub essay data.
+
+---
+
 ### 🛠 Tools & Environment 🛠
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
